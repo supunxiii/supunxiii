@@ -3,7 +3,7 @@
 <h1 align="center">Hi! 👋, I'm Supun (Seth) Wijesooriya</h1>
 <h3 align="center">I consider myself a passionate developer who love’s the art of programming. Coding is one of my main ways of getting that “dopamine” rush. : ) In simple terms, I do coding for fun. I consider my GitHub account to be my trophy case where I showcase the solutions I came up with for the real-world problems. Welcome to my GitHub account!!! #こんにちは </> 👨🏻‍💻 </></h3>
 
-<img align="right" alt="Coding" width="300" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
+<img align="right" alt="Coding" width="200" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=supunxiii&label=Profile%20views&color=0e75b6&style=flat" alt="supunxiii" /> </p>
