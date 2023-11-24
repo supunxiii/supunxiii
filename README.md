@@ -1,7 +1,7 @@
 [![MasterHead](https://raw.githubusercontent.com/supunxiii/supunxiii/main/supunxiii-background.gif)](https://linkedin.com/in/supunwijesooriya)
 
 <h1 align="center">Hi! 👋, I'm Supun (Seth) Wijesooriya</h1>
-<h3 align="center">I consider myself a passionate developer who loves the art of programming. Coding is one of my main ways of getting that “dopamine” rush. : ) In simple terms, I do coding for fun. I consider my GitHub account to be my trophy case where I showcase the solutions I came up with for the real-world problems. Welcome to my GitHub account!!! #こんにちは </> 👨🏻‍💻 </></h3>
+<h5 align="center">I consider myself a passionate developer who loves the art of programming. Coding is one of my main ways of getting that “dopamine” rush. : ) In simple terms, I do coding for fun. I consider my GitHub account to be my trophy case where I showcase the solutions I came up with for the real-world problems. Welcome to my GitHub account!!! </>こんにちは</></h5>
 
 <img align="right" alt="Coding" width="260" src="https://raw.githubusercontent.com/supunxiii/supunxiii/main/supunxiii-side.gif">
 
