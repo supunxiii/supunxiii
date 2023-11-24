@@ -1,7 +1,7 @@
 [![MasterHead](https://raw.githubusercontent.com/supunxiii/supunxiii/main/supunxiii-background.gif)](https://linkedin.com/in/supunwijesooriya)
 
 <h1 align="center">Hi! 👋, I'm Supun (Seth) Wijesooriya</h1>
-<h3 align="center">I consider myself a passionate developer who love’s the art of programming. Coding is one of my main ways of getting that “dopamine” rush. : ) In simple terms, I do coding for fun. I consider my GitHub account to be my trophy case where I showcase the solutions I came up with for the real-world problems. Welcome to my GitHub account!!! #こんにちは </> 👨🏻‍💻 </></h3>
+<h3 align="center">I consider myself a passionate developer who loves the art of programming. Coding is one of my main ways of getting that “dopamine” rush. : ) In simple terms, I do coding for fun. I consider my GitHub account to be my trophy case where I showcase the solutions I came up with for the real-world problems. Welcome to my GitHub account!!! #こんにちは </> 👨🏻‍💻 </></h3>
 
 <img align="right" alt="Coding" width="300" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
 
@@ -20,7 +20,7 @@
 <a href="https://linkedin.com/in/supunwijesooriya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supunwijesooriya" height="30" width="40" /></a>
 <a href="https://kaggle.com/supunwijesooriya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="supunwijesooriya" height="30" width="40" /></a>
 <a href="https://instagram.com/supun.xiii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="supun.xiii" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.com/users/supunxiii/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/users/supunxiii/" height="30" width="40" /></a>
+<a href="https://discord.com/users/supunxiii/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/users/supunxiii/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
