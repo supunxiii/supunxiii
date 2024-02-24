@@ -10,9 +10,9 @@
 
 - 💬 Ask me about **Web Development, PWA, Android Development, Flutter, Java, OOP, Python, Django, PHP, Laravel, DSA, SQL, MongoDB**
 
-- 📫 How to reach me **supunonlinkedin@gmail.com**
+- 📫 How to reach me **#@gmail.com**
 
-- ⚡ Fun fact **I am a huge pop music fan. I mean "huge". Not to mention Naruto, MCU, Star Wars, Beyblades, Cyberpunk, Dragon Ballz, Kimetsu No Yaiba, Stranger Things, DOTS, Goblin (쓸쓸하고 찬란하神 – 도깨비) etc. Also in my downtime, I'm all about exploring new places and soaking up the adventure.**
+- ⚡ Fun fact **I am a huge pop music fan. I mean "huge". Not to mention Naruto, MCU, Star Wars, Beyblades, Cyberpunk, Dragon Ballz, Kimetsu No Yaiba, Stranger Things etc. Also in my downtime, I'm all about exploring new places and soaking up the adventure.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
