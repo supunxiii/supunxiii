@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **contact@supunwijesooriya.com**
 
-- ⚡ Fun fact **I am a huge pop music fan. I mean "huge". Not to mention Naruto, MCU, Star Wars, Beyblades, Cyberpunk, Dragon Ballz, Kimetsu No Yaiba, Stranger Things etc. Also in my downtime, I'm all about exploring new places and soaking up the adventure.**
+- ⚡ Fun fact **I am a huge pop music fan. I mean "huge". Not to mention I freaking love animes like Naruto, MCU, SW, Beyblades, Cyberpunk, Dragon Ballz, Kimetsu No Yaiba, and series like Stranger Things etc. Also in my downtime, I'm all about exploring new places and soaking up the adventure.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
