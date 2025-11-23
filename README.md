@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/supunxiii/supunxiii/main/supunxiii-background.gif)](https://linkedin.com/in/supunwijesooriya)
+[![MasterHead](https://raw.githubusercontent.com/supunxiii/supunxiii/main/supunxiii-background.gif)](https://supunwijesooriya.com)
 
 <h1 align="center"><i>Hi! 👋, I'm Supun (Seth) Wijesooriya</i></h1>
 <h4 align="center">I consider myself a passionate developer who loves the art of programming. Coding is one of my main ways of getting that “dopamine” rush. : ) In simple terms, I do coding for fun. I consider my GitHub account to be my trophy case where I showcase the solutions I came up with for the real-world problems. Welcome to my GitHub account!!! </>こんにちは</></h4>
