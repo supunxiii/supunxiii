@@ -1,18 +1,18 @@
 [![MasterHead](https://raw.githubusercontent.com/supunxiii/supunxiii/main/supunxiii-background.gif)](https://supunwijesooriya.com)
 
 <h1 align="center"><i>Hi! 👋, I'm Supun (Seth) Wijesooriya</i></h1>
-<h4 align="center">I consider myself a passionate developer who loves the art of programming. Coding is one of my main ways of getting that “dopamine” rush. : ) In simple terms, I do coding for fun. I consider my GitHub account to be my trophy case where I showcase the solutions I came up with for the real-world problems. Welcome to my GitHub account!!! </>こんにちは</></h4>
+<h4 align="center">I am a graduate data science student with a background in computer science. I have a strong foundation in software development, data analytics, UI/UX, and predictive analytics research. I also have experience in collaborative academic research and applied data analytics. Currently, my focus is on statistical analysis and machine learning.</h4>
 
 <img align="right" alt="Coding" width="260" src="https://raw.githubusercontent.com/supunxiii/supunxiii/main/supunxiii-side.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=supunxiii&label=Profile%20views&color=0e75b6&style=flat" alt="supunxiii" /> </p>
 
-- 💬 Ask me about **Web Development, PWA, Android Development, Flutter, Java, OOP, Python, Django, PHP, Laravel, DSA, SQL, MongoDB**
+- 💬 Ask me about **Data Science, Machine Learning, Statistical Analysis, Research Methods, Software Engineering, Web-Based Systems, UI/UX-informed Design**
 
 - 📫 How to reach me **contact@supunwijesooriya.com**
 
-- ⚡ Fun fact **I am a huge pop music fan. I mean "huge". Not to mention I freaking love animes like Naruto, MCU, SW, Beyblades, Cyberpunk, Dragon Ballz, Kimetsu No Yaiba, and series like Stranger Things etc. Also in my downtime, I'm all about exploring new places and soaking up the adventure.**
+- 🌱 In my free time **Travelling, staying active, and focusing on physical fitness**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
