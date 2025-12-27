@@ -10,9 +10,9 @@
 
 - 💬 Ask me about **Data Science, Machine Learning, Statistical Analysis, Research Methods, Software Engineering, Web-Based Systems, UI/UX-informed Design**
 
-- 📫 How to reach me **contact@supunwijesooriya.com**
+- 📫 How to reach me: **contact@supunwijesooriya.com**
 
-- 🌱 In my free time **Travelling, staying active, and focusing on physical fitness**
+- 🌱 In my free time: **Travelling, staying active, and focusing on physical fitness**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
