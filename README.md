@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=supunxiii&label=Profile%20views&color=0e75b6&style=flat" alt="supunxiii" /> </p>
 
-- 💬 Ask me about **Data Science, Machine Learning, Statistical Analysis, Research Methods, Software Engineering, Web-Based Systems, UI/UX-informed Design**
+- 💬 Ask me about: **Data Science, Machine Learning, Statistical Analysis, Research Methods, Software Engineering, Web-Based Systems, UI/UX-informed Design**
 
 - 📫 How to reach me: **contact@supunwijesooriya.com**
 
