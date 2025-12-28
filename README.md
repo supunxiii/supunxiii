@@ -17,19 +17,19 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://dev.to/supunxiii" target="_blank">
-    <img src="https://raw.githubusercontent.com/alexandresanlim/Badges4-README.md-Profile/master/badges/devto.svg" />
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/supunwijesooriya" target="_blank">
-    <img src="https://raw.githubusercontent.com/alexandresanlim/Badges4-README.md-Profile/master/badges/linkedin.svg" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://kaggle.com/supunwijesooriya" target="_blank">
-    <img src="https://raw.githubusercontent.com/alexandresanlim/Badges4-README.md-Profile/master/badges/kaggle.svg" />
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
   </a>
   <a href="https://instagram.com/supun.xiii" target="_blank">
-    <img src="https://raw.githubusercontent.com/alexandresanlim/Badges4-README.md-Profile/master/badges/instagram.svg" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://discord.com/users/supunxiii/" target="_blank">
-    <img src="https://raw.githubusercontent.com/alexandresanlim/Badges4-README.md-Profile/master/badges/discord.svg" />
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=supunxiii&label=Profile%20views&color=0e75b6&style=flat" alt="supunxiii" /> </p>
