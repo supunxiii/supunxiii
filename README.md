@@ -15,13 +15,13 @@
 - 🌱 In my free time: **Travelling, staying active, and focusing on physical fitness**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-  [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/supunxiii)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/supunwijesooriya)
-  [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white)](https://kaggle.com/supunwijesooriya)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/supun.xiii)
-  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/supunxiii/)
-</p>
+
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/supunxiii)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/supunwijesooriya)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white)](https://kaggle.com/supunwijesooriya)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/supun.xiii)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/supunxiii/)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=supunxiii&label=Profile%20views&color=0e75b6&style=flat" alt="supunxiii" /> </p>
 
 <h3 align="left">Languages and Tools:</h3>
