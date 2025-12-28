@@ -26,7 +26,19 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=python,sklearn,numpy,opencv,r" />
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=sklearn" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=numpy" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=opencv" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=r" />
 </p>
 <p>
   <img src="https://skillicons.dev/icons?i=flask,django,java,html,css,js" />
