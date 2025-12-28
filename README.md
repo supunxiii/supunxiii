@@ -29,34 +29,22 @@
 <p align="left">
   <!-- Data Science & ML -->
   <img src="https://skillicons.dev/icons?i=python,sklearn,numpy,opencv,r" />
-</p>
-
-<p align="left">
+</p> <p align="left">
   <!-- Backend & Frameworks -->
   <img src="https://skillicons.dev/icons?i=flask,django,java" />
-</p>
-
-<p align="left">
+</p> <p align="left">
   <!-- Web Technologies -->
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,dart,flutter" />
-</p>
-
-<p align="left">
+</p> <p align="left">
   <!-- Design & Dev Tools -->
   <img src="https://skillicons.dev/icons?i=figma,git,linux,bash" />
-</p>
-
-<p align="left">
+</p> <p align="left">
   <!-- Databases -->
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-<p align="left">
+</p> <p align="left">
   <!-- Frontend & Backend -->
   <img src="https://skillicons.dev/icons?i=react,vue,nodejs,express,php" />
-</p>
-
-<p align="left">
+</p> <p align="left">
   <!-- Misc -->
   <img src="https://skillicons.dev/icons?i=postman,c,firebase,androidstudio" />
 </p>
