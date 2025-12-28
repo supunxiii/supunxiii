@@ -27,25 +27,21 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
-  <!-- Data Science & ML -->
   <img src="https://skillicons.dev/icons?i=python,sklearn,numpy,opencv,r" />
-</p> <p align="left">
-  <!-- Backend & Frameworks -->
-  <img src="https://skillicons.dev/icons?i=flask,django,java" />
-</p> <p align="left">
-  <!-- Web Technologies -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,dart,flutter" />
-</p> <p align="left">
-  <!-- Design & Dev Tools -->
-  <img src="https://skillicons.dev/icons?i=figma,git,linux,bash" />
-</p> <p align="left">
-  <!-- Databases -->
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p> <p align="left">
-  <!-- Frontend & Backend -->
+</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flask,django,java,html,css,js" />
+</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,dart,flutter,figma" />
+</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,linux,bash,mongodb,mysql" />
+</p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=react,vue,nodejs,express,php" />
-</p> <p align="left">
-  <!-- Misc -->
+</p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=postman,c,firebase,androidstudio" />
 </p>
 
