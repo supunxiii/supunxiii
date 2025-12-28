@@ -26,21 +26,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=python" /> <img src="https://skillicons.dev/icons?i=sklearn" /> <img src="https://skillicons.dev/icons?i=opencv" /> <img src="https://skillicons.dev/icons?i=r" /></p>
-<p>
-  <img src="https://skillicons.dev/icons?i=flask,django,java,html,css,js" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,dart,flutter,figma" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=git,linux,bash,mongodb,mysql" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=react,vue,nodejs,express,php" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=postman,c,firebase,androidstudio" />
-</p>
+  <img src="https://skillicons.dev/icons?i=python" /> <img src="https://skillicons.dev/icons?i=sklearn" /> <img src="https://skillicons.dev/icons?i=opencv" /> <img src="https://skillicons.dev/icons?i=r" /> <img src="https://skillicons.dev/icons?i=flask" /><img src="https://skillicons.dev/icons?i=django" /><img src="https://skillicons.dev/icons?i=java" /><img src="https://skillicons.dev/icons?i=html" /><img src="https://skillicons.dev/icons?i=css" /><img src="https://skillicons.dev/icons?i=js" /> <img src="https://skillicons.dev/icons?i=bootstrap" /><img src="https://skillicons.dev/icons?i=tailwind" /><img src="https://skillicons.dev/icons?i=dart" /><img src="https://skillicons.dev/icons?i=flutter" /><img src="https://skillicons.dev/icons?i=figma" /><img src="https://skillicons.dev/icons?i=git" /><img src="https://skillicons.dev/icons?i=linux" /><img src="https://skillicons.dev/icons?i=bash" /><img src="https://skillicons.dev/icons?i=mongodb" /><img src="https://skillicons.dev/icons?i=mysql" /><img src="https://skillicons.dev/icons?i=react" /><img src="https://skillicons.dev/icons?i=vue" /><img src="https://skillicons.dev/icons?i=nodejs" /><img src="https://skillicons.dev/icons?i=express" /><img src="https://skillicons.dev/icons?i=php" /> <img src="https://skillicons.dev/icons?i=postman" /> <img src="https://skillicons.dev/icons?i=c" /> <img src="https://skillicons.dev/icons?i=firebase" /> <img src="https://skillicons.dev/icons?i=androidstudio" /></p>
 
 [![Google Certified - Data Analytics](https://img.shields.io/badge/Google%20Certified-Data%20Analytics-4285F4?logo=google&logoColor=white)](https://www.credly.com/badges/31d07072-4f46-4f5e-b72d-0df522fc50b9/public_url)  [![Google Certified - Project Management](https://img.shields.io/badge/Google%20Certified-Project%20Management-4285F4?logo=google&logoColor=white)](https://www.credly.com/badges/82bb9032-7398-482e-bb23-6d023d81a22f/public_url)
