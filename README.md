@@ -3,7 +3,7 @@
 <h1 align="center"><i>Hi! 👋, I'm Supun (Seth) Wijesooriya</i></h1>
 <h4 align="justify">I am a graduate data science student with a background in computer science. I have a strong foundation in software development, data analytics, UI/UX, and predictive analytics research. I also have experience in collaborative academic research and applied data analytics. Currently, my focus is on statistical analysis and machine learning.</h4>
 
-<img align="right" alt="Coding" width="260" src="https://raw.githubusercontent.com/supunxiii/supunxiii/main/supunxiii-side.gif">
+<img align="right" alt="Coding" width="160" src="https://raw.githubusercontent.com/supunxiii/supunxiii/main/supunxiii-side.gif">
 
 
 
